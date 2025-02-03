@@ -8,6 +8,7 @@ Allows user to:
 - Update students' grades of current courses
 - Look up a student's grade in a specific course 
 - See a master list of all students, their courses courses and grades
+- Export a student's transcript or semester report card
 
 ## Project Status
 Working on transforming the code to be object-oriented and adding GUI features.
