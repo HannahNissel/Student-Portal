@@ -11,4 +11,4 @@ Allows user to:
 - Export a student's transcript or semester report card
 
 ## Project Status
-Working on transforming the code to be object-oriented and adding GUI features.
+Working on adding GUI features.
