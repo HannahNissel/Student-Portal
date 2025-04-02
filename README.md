@@ -9,6 +9,3 @@ Allows user to:
 - Look up a student's grade in a specific course 
 - See a master list of all students, their courses courses and grades
 - Export a student's transcript or semester report card
-
-## Project Status
-Working on adding GUI features.
